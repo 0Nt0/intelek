@@ -1,0 +1,16 @@
+C:\Users\ziliu\Desktop\3M\3M2P\Intelektika\2Darbas\2Darbas\2Darbas\bin\Debug\net5.0\2Darbas.exe
+C:\Users\ziliu\Desktop\3M\3M2P\Intelektika\2Darbas\2Darbas\2Darbas\bin\Debug\net5.0\2Darbas.deps.json
+C:\Users\ziliu\Desktop\3M\3M2P\Intelektika\2Darbas\2Darbas\2Darbas\bin\Debug\net5.0\2Darbas.runtimeconfig.json
+C:\Users\ziliu\Desktop\3M\3M2P\Intelektika\2Darbas\2Darbas\2Darbas\bin\Debug\net5.0\2Darbas.runtimeconfig.dev.json
+C:\Users\ziliu\Desktop\3M\3M2P\Intelektika\2Darbas\2Darbas\2Darbas\bin\Debug\net5.0\2Darbas.dll
+C:\Users\ziliu\Desktop\3M\3M2P\Intelektika\2Darbas\2Darbas\2Darbas\bin\Debug\net5.0\2Darbas.pdb
+C:\Users\ziliu\Desktop\3M\3M2P\Intelektika\2Darbas\2Darbas\2Darbas\obj\Debug\net5.0\2Darbas.csproj.AssemblyReference.cache
+C:\Users\ziliu\Desktop\3M\3M2P\Intelektika\2Darbas\2Darbas\2Darbas\obj\Debug\net5.0\2Darbas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ziliu\Desktop\3M\3M2P\Intelektika\2Darbas\2Darbas\2Darbas\obj\Debug\net5.0\2Darbas.AssemblyInfoInputs.cache
+C:\Users\ziliu\Desktop\3M\3M2P\Intelektika\2Darbas\2Darbas\2Darbas\obj\Debug\net5.0\2Darbas.AssemblyInfo.cs
+C:\Users\ziliu\Desktop\3M\3M2P\Intelektika\2Darbas\2Darbas\2Darbas\obj\Debug\net5.0\2Darbas.csproj.CoreCompileInputs.cache
+C:\Users\ziliu\Desktop\3M\3M2P\Intelektika\2Darbas\2Darbas\2Darbas\obj\Debug\net5.0\2Darbas.dll
+C:\Users\ziliu\Desktop\3M\3M2P\Intelektika\2Darbas\2Darbas\2Darbas\obj\Debug\net5.0\refint\2Darbas.dll
+C:\Users\ziliu\Desktop\3M\3M2P\Intelektika\2Darbas\2Darbas\2Darbas\obj\Debug\net5.0\2Darbas.pdb
+C:\Users\ziliu\Desktop\3M\3M2P\Intelektika\2Darbas\2Darbas\2Darbas\obj\Debug\net5.0\2Darbas.genruntimeconfig.cache
+C:\Users\ziliu\Desktop\3M\3M2P\Intelektika\2Darbas\2Darbas\2Darbas\obj\Debug\net5.0\ref\2Darbas.dll
